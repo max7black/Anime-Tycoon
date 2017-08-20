@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anime Tycoon.CSharp", "Anime Tycoon.CSharp.csproj", "{9E4A0EFF-FA45-2AAE-B9C3-84207B3A494E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anime Tycoon.CSharp.Editor", "Anime Tycoon.CSharp.Editor.csproj", "{2E874619-34F5-114D-D1A0-248A41187C2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{9E4A0EFF-FA45-2AAE-B9C3-84207B3A494E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E4A0EFF-FA45-2AAE-B9C3-84207B3A494E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E4A0EFF-FA45-2AAE-B9C3-84207B3A494E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E874619-34F5-114D-D1A0-248A41187C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E874619-34F5-114D-D1A0-248A41187C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E874619-34F5-114D-D1A0-248A41187C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E874619-34F5-114D-D1A0-248A41187C2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
