@@ -103,6 +103,15 @@
     <Compile Include="Assets\Anima2D\Scripts\SpriteMeshAnimation.cs" />
     <Compile Include="Assets\Anima2D\Scripts\SpriteMeshInstance.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
+    <Compile Include="Assets\Scripts\Character\BaseCharacter.cs" />
+    <Compile Include="Assets\Scripts\Character\CreateNewCharacter.cs" />
+    <Compile Include="Assets\Scripts\Classes\BaseAnimationClass.cs" />
+    <Compile Include="Assets\Scripts\Classes\BaseArtClass.cs" />
+    <Compile Include="Assets\Scripts\Classes\BaseClass.cs" />
+    <Compile Include="Assets\Scripts\Classes\BaseProductionClass.cs" />
+    <Compile Include="Assets\Scripts\Classes\BaseSoundClass.cs" />
+    <Compile Include="Assets\Scripts\CreateAnime.cs" />
+    <Compile Include="Assets\Scripts\GainEXPTest.cs" />
     <Compile Include="Assets\Scripts\GenreMananger.cs" />
     <Compile Include="Assets\Scripts\TimeSystem.cs" />
     <Compile Include="Assets\UnityChan\Scripts\CameraController.cs" />
